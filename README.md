@@ -1,3 +1,3 @@
-# Hola_mundo
+# Adios_mundo 
 Mi primer repositorio de prueba 
-Autor: Jesus Roldan Madero 
+Autor:No Jesus Roldan Madero 
